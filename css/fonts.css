@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Neucha';
+    src: url('../fonts/Neucha.eot');
+    src: url('../fonns/Neucha.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Neucha.woff') format('woff'),
+    url('../fonts/Neucha.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    }
+@font-face {
+    font-family: 'ms-gothic';
+    src: url('../fonts/ms-gothic.eot');
+    src: url('../fonns/ms-gothic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ms-gothic.woff') format('woff'),
+    url('../fonts/ms-gothic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    }
